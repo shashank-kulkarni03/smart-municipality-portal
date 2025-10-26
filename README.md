@@ -57,7 +57,7 @@ A modern, full-stack web application for managing municipal complaints with thre
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/municipality-portal.git
+git clone https://github.com/shashank-kulkarni03/municipality-portal.git
 cd municipality-portal
 ```
 
@@ -286,19 +286,12 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Shashank Kulkarni**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-
-## 🙏 Acknowledgments
-
-- React.js Team
-- Firebase Team
-- Tailwind CSS
-- Leaflet Maps
-- OpenStreetMap Contributors
+- GitHub: [@Shashank Kulkarni](https://github.com/shashank-kulkarni03)
+- LinkedIn: [Shashank Kulkarni](https://linkedin.com/in/shashankkulkarni-104-sirmvit)
 
 ---
 
 Made with ❤️ for better municipal services
+
